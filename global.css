@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-saira-condensed: "Saira Condensed";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-29xl: 48px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-red: #ff0000;
+  --hyperlink: #0047ff;
+  --black: #000;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+
+  /* border radiuses */
+  --br-mini: 15px;
+}
